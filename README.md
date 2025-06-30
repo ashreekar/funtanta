@@ -4,4 +4,5 @@ Author:Ashreek
 
 email:ashreekar767@gmail.com
 
-This is a repo for my time pass and to work on some cool codes.
+This is a repo for my time pass and to work on some cool codes. 
+Some cool ideas coming soon.
